@@ -1,0 +1,9 @@
+[{
+    "id" : "weather_question",
+    "intent" : [
+        "@city",
+        "@weather",
+        "@weather_question"
+    ],
+    "any_sort" : true
+}]

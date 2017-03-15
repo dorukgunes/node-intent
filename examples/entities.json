@@ -1,0 +1,13 @@
+{
+    "@city": {
+        "istanbul": ["ıstabul"],
+        "ankara" : [],
+        "izmir" : ["izmır","ızmir","ızmır"]
+    },
+    "@weather" : {
+        "hava" : ["sıcaklık","sicaklık","sıcaklik","sicaklik"]
+    },
+    "@weather_question" : {
+        "kaç derece" : ["nasil","nasıl", "guzel mi", "güzel mi"]
+    }
+}

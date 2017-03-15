@@ -1,0 +1,26 @@
+{
+  "name": "node-intent",
+  "version": "0.0.1",
+  "description": "Catch the intent of the user with entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorukgunes/node-intent.git"
+  },
+  "keywords": [
+    "intent",
+    "entities"
+  ],
+  "author": "Doruk Güneş <doruk.gunes@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorukgunes/node-intent/issues"
+  },
+  "homepage": "https://github.com/dorukgunes/node-intent#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
